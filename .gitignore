@@ -1,0 +1,7 @@
+.*
+target
+bin
+deploy
+*.iml
+!.gitignore
+!.travis.yml

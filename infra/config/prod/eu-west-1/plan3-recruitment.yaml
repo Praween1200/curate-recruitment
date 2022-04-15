@@ -1,0 +1,4 @@
+template_path: plan3-recruitment.yaml
+parameters:
+  DeployUserName: plan3-recruitment
+  DeployBucketName: plan3-recruitment-ql3bsz66-brxdxs
