@@ -1,1 +1,1 @@
-web: java -jar target/java-backend-recruitment-1.jar server
+web: java $JAVA_OPTS -Ddw.server.connector.port=$PORT -jar target/java-backend-recruitment-1.jar server curateProp.yml
