@@ -1,4 +1,3 @@
-applicationName: Curate
 server:
   type: simple
   applicationContextPath: /
