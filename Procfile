@@ -1,1 +1,1 @@
-web: java -jar target/java-backend-recruitment-1.jar
+web: java -jar target/java-backend-recruitment-1.jar server
